@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+	<color name="Red" code="#FF0000"/>
+	<color name="Green" code="#00FF00"/>
+	<color name="Blue" code="#0000FF"/>
+	<color name="Yellow" code="#FFFF00"/>
+	<transparent/>
+</colors>
