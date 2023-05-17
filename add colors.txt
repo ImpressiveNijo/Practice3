@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<colors>
+ <color name="Magenta" code="#FF00FF"/>
+  <color name="Cyan" code="#00FFFF"/>
+  <color name="White" code="#FFFFFF"/>
+  <color name="Black" code="#000000"/>
+  <color name="Gray" code="#808080"/>
+  <color name="Purple" code="#800080"/>
+  <color name="Orange" code="#FFA500"/>
+  <color name="Brown" code="#A52A2A"/>
+  <color name="Pink" code="#FFC0CB"/>
+  <color name="Gold" code="#FFD700"/>
+  <transparent/>
+</colors>
