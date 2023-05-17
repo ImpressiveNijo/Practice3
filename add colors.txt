@@ -10,5 +10,5 @@
   <color name="Brown" code="#A52A2A"/>
   <color name="Pink" code="#FFC0CB"/>
   <color name="Gold" code="#FFD700"/>
-  <transparent/>
+
 </colors>
